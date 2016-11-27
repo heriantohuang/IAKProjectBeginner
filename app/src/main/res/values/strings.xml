@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="text_one">Happy Birthday, Ida Amelia!</string>
+    <string name="text_two">From, hz</string>
+    <string name="coffee_activity_label_name">Order</string>
+    <string name="profile_activity_label_name">Profile</string>
+</resources>
